@@ -6,3 +6,5 @@ Welcome to my GitHub profile
 
 - **👨‍💻** I’m currently studying at Sumatera Institute of Technology.
 - **📫** How to reach me: fadilataullahrifqi@gmail.com
+
+![](https://komarev.com/ghpvc/?username=FadilRifqi&color=yellow)
