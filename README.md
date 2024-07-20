@@ -24,8 +24,8 @@ Thanks for visiting my profile! Feel free to explore my repositories and drop me
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="200px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FadilRifqi&theme=radical" alt="GitHub Streak" width="45%" height="220px">
+  <img src="https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="200px" style="vertical-align: middle;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FadilRifqi&theme=radical" alt="GitHub Streak" width="45%" height="240px" style="vertical-align: middle;">
 </p>
 
 # Top Languages
