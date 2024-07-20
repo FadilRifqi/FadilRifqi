@@ -21,10 +21,10 @@ I'm Fadil, a student at Sumatera Institute of Technology with a passion for Web 
 
 Thanks for visiting my profile! Feel free to explore my repositories and drop me a message if you want to collaborate or just say hi. 😄
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadilRifqi&theme=dark" alt="GitHub Streak" width="45%" height="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark" alt="GitHub Stats" width="45%" height="100%">
-</p>
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadilRifqi&theme=dark)](https://git.io/streak-stats)
 
 # Top Languages
 
