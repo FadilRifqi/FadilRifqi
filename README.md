@@ -1,6 +1,6 @@
 # Hello, I'm Fadil!
 
-Welcome to my GitHub profile. Here you can find various projects and repositories that I work on.
+Welcome to my GitHub profile
 
 ## About Me
 
