@@ -23,8 +23,8 @@ Thanks for visiting my profile! Feel free to explore my repositories and drop me
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadilRifqi&theme=dark)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadilRifqi&theme=radical)](https://git.io/streak-stats)
 
 # Top Languages
 
