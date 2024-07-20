@@ -21,4 +21,4 @@ I'm Fadil, a student at Sumatera Institute of Technology with a passion for Web 
 
 Thanks for visiting my profile! Feel free to explore my repositories and drop me a message if you want to collaborate or just say hi. 😄
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&hide_title=true)
