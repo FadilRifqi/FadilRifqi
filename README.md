@@ -28,7 +28,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and drop me
 
 # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadilRifqi&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadilRifqi&layout=compact&theme=radical)
 
 ```
 
