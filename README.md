@@ -32,10 +32,6 @@
 
 <p align="center">
     <a href="https://github.com/FadilRifqi/">
-      <img width=350 align="center" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-           src="https://github-readme-stats.vercel.app/api?username=FadilRifqi&show_icons=true&theme=radical&rank_icon=default&custom_title=Fadil's+Github+Stats" />
-    </a>
-    <a href="https://github.com/FadilRifqi/">
       <img width=268 align="center" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
            src="https://github-readme-stats.vercel.app/api/top-langs?username=FadilRifqi&show_icons=true&theme=radical&locale=en&layout=compact" />
     </a>
