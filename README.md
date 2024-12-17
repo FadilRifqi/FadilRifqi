@@ -18,6 +18,7 @@
 <h4 style="font-size: 24px; color: #FFF; border-bottom: 2px solid #4682B4; padding-bottom: 4px; display: inline-block;">Tech I'm Learning Now</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
